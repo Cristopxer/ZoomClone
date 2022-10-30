@@ -1,1 +1,10 @@
-<p>menu-bottom works!</p>
+<div class="wrapper_menu">
+  <ul class="list_menu">
+    <li class="btn_menu" *ngFor="let btn of menu">
+      <button>
+        <span><i class="{{ btn.icon }}"></i></span>
+        <span>{{btn.name}}</span>
+      </button>
+    </li>
+  </ul>
+</div>
