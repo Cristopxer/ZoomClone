@@ -16,13 +16,13 @@ see oficial documentation for more info https://github.com/peers/peerjs-server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 
-#Features
+## Features
 * Generates room with unique ids
 * Allows connection peer to peer for streaming
 
-#Screenshots
-## Home page
+## Screenshots
+### Home page
 ![image](https://user-images.githubusercontent.com/49459233/198928744-695a8320-4a6e-4b9e-a26e-e33454998c8a.png)
-## Rooms
+### Rooms
 ![image](https://user-images.githubusercontent.com/49459233/198928827-5decc38d-c34f-4d9d-a794-fd09ca675618.png)
 
