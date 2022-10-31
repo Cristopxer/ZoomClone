@@ -6,7 +6,7 @@ This project is a demo of how to use RTSP protocol for video streaming using Ang
 In the server folder run npm init then execute nodemon app.js to run the server
 
 ## Peer js
-Download and start the Peerjs server running in the port 3001 with the command
+Download and start the Peerjs server running it in the port 3001 with the command
   peerjs -p 3001
  
 see oficial documentation for more info https://github.com/peers/peerjs-server
