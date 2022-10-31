@@ -1,1 +1,6 @@
-<p>video-player works!</p>
+<div class="wrapper_video" *ngIf="stream">
+    <video [srcObject]="stream" autoplay></video>
+    <div class="label_name">
+        <span>Name</span>
+    </div>
+</div>

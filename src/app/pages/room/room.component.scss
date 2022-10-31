@@ -5,3 +5,14 @@
     width: 100vw;
     height: 100vh;
 }
+
+.wrapper_room{
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;    
+
+    app-video-player{
+        padding: .25rem;
+    }
+}
