@@ -3,7 +3,7 @@
 This project is a demo of how to use RTSP protocol for video streaming using Angular, Nodejs, Socket-io, Peerjs. 
 
 ## Server
-In the server folder run npm init then execute then nodemon app.js to run the server
+In the server folder run npm init then execute nodemon app.js to run the server
 
 ## Peer js
 Download and start the Peerjs server running in the port 3001 with the command
